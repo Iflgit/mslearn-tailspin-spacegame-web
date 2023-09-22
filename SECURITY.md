@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ifl0289/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/ifl0289/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=3&branchName=main)
+
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.8 BLOCK -->
 
 ## Security
